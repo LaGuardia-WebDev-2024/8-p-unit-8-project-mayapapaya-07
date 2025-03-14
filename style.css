@@ -4,9 +4,9 @@
 }
 
 body {
-  background-color: aliceblue;
+  background-color: SandyBrown;
   text-align: center;
-  color: navy;
+  color: SteelBlue;
   margin: auto;
   font-family: water;
 }
@@ -19,7 +19,7 @@ h1{
   background-image: url("https://seaviewinfo.com/wp-content/uploads/2018/07/SeaScape.jpg");
   background-size: 600px 400px;
   border-radius: 300px;
-  border: 5px solid white;
+  border: 5px solid RoyalBlue;
 }
 
 
